@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  RealmSwift
 //
-//  Created by Riccardo Rizzo on 12/07/17.
-//  Copyright © 2017 Riccardo Rizzo. All rights reserved.
+//  Created by Admin on 02/09/19.
+//  Copyright © 2019 Admin. All rights reserved.
 //
 
 import UIKit
